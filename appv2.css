@@ -1,0 +1,34 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+footer {
+    background-color: rgb(90, 192, 255);
+}
+
+.listFormatting {
+    list-style: none;
+    width: 100%;
+}
+
+.colorDarkGrey {
+    color: rgb(140, 140, 140);
+}
+
+.colorLightBlue {
+    color: lightskyblue;
+}
+
+.socialMedia {
+    color: black;
+    text-decoration: none;
+}
+
+.socialMedia:hover {
+    color: rgb(140, 140, 140);
+}
+
+.fontInfo {
+    font-size: 1.25rem;
+}
